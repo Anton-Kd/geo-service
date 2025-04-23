@@ -1,6 +1,8 @@
 package ru.netology.entity;
 
-public enum Country {
+public enum
+
+Country {
     RUSSIA,
     GERMANY,
     USA,
